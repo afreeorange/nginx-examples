@@ -1,0 +1,1 @@
+Some [directives](http://wiki.nginx.org/DirectiveIndex) I use frequently.
